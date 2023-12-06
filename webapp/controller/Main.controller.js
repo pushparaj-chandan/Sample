@@ -5,7 +5,7 @@ sap.ui.define([
 
 	return Controller.extend("com.probosys.GitApplication.controller.Main", {
 		onInit: function () {
-
+alert("Hello");
 		}
 	});
 });
